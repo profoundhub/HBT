@@ -1,0 +1,26 @@
+{
+  "name": "hbt-project",
+  "version": "1.0.0",
+  "description": "Holy Bible Tweets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/profoundhub/HBT.git"
+  },
+  "keywords": [
+    "Holy",
+    "Bible",
+    "Tweets",
+    "Twitter",
+    "Daniel"
+  ],
+  "author": "Daniel Lim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/profoundhub/HBT/issues"
+  },
+  "homepage": "https://github.com/profoundhub/HBT#readme"
+}
